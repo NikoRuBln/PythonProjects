@@ -1,1 +1,1 @@
-Repo consists of projects done with the help of the Book "Invent your own computer games withn python" from Al Sweigart.
+Repo consists of small projects done in the Python language for learning purposes. Some are from books, others from the internet.
